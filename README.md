@@ -26,18 +26,18 @@ This project implements an automated deep learning pipeline that:
 
 ---
 
-## 📊 Results
+## Results
 
 | Model | Accuracy |
 |--------|----------|
 | DenseNet121 + RF | **99.5%** |
 | VGG16 + RF | 99.1% |
 
-✅ DenseNet121 achieved the best performance.
+DenseNet121 achieved the best performance.
 
 ---
 
-## 📷 Sample Output
+## Sample Output
 
 ![Sample Output](sample_output.png)
 
